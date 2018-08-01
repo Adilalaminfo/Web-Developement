@@ -1,19 +1,129 @@
 body{
-  background-image: url(tb.jpg);
+	background-color: #2f0916;
 }
-.ul1{
-	  list-style-type: none;
-	  text-align: center;
-	  border: 2px solid red;
-    padding:10px;
-     background-color: pink;
+.first{
+	width: 492px;
+    height: 601px;
+    margin:auto;
 }
-.ul1 li img{
-       border: 2px solid blue;
-       border-radius: 50%;
+form{
+	border: 2px solid silver;
+    width: 492px;
+    height: 598px;
+	margin: auto;
+	background-color: white;
 }
-.ul1 li{
-   margin-left: 20px;
-   display: inline;
-   margin-right: 50px;
+p{
+	color: brown;
+    margin-left: 144px;
+    font-size: 26px;
+    margin-top: 10px;
+	font-family: Britannic Bold;
+}
+div{
+	padding: 0px;
+	border: 1px solid silver;
+}
+.p1{
+	color: brown;
+	margin-left: 30px;
+	font-size: 16px;
+	font-family: bold;
+}
+.input{
+    border: 1px solid brown;
+    margin-left: 27px;
+    padding: 10px;
+    margin-top: -4px;
+    width: 396px;
+    border-radius: 4px;
+}
+.input1{
+	border: 1px solid brown;
+    margin-left: 27px;
+    padding: 10px;
+    margin-top: 16px;;
+    width: 396px;
+    border-radius: 4px;
+}
+.p2{
+	font-size: 16px;
+	color: brown;
+   font-family: bold;
+   	margin-left: 30px;
+   	margin-top: 14px;
+}
+.input2{
+	border: 1px solid brown;
+    margin-left: 27px;
+    padding: 10px;
+    margin-top: -1px;
+    width: 396px;
+    border-radius: 4px;
+}
+.input3{
+    border: 1px solid brown;
+    margin-left: 27px;
+    padding: 10px;
+    margin-top: 16px;
+    width: 396px;
+    border-radius: 4px;
+}
+.p3{
+	font-size: 16px;
+	color: brown;
+   font-family: bold;
+   	margin-left: 30px;
+   	margin-top: 14px;
+}
+select{
+	border: 1px solid brown;
+    margin-left: 27px;
+    padding: 9px;
+    margin-top: -1px;
+    width: 414px;
+    border-radius: 4px;
+}
+textarea{
+    border: 1px solid brown;
+    margin-left: 27px;
+    padding: 2px;
+    margin-top: 21px;
+    width: 408px;
+    border-radius: 4px;  
+}
+span{
+   	color: #ff3679;
+   	font-size: 16px;
+   }
+.last{
+	color: white; 
+	border:1px solid black;
+	border-radius: 10px;
+    margin-left: 356px;
+    margin-top: -41px;
+    padding: 10px;
+    width: 82px;
+	background-color: #841137;
+}
+.p5{
+	color: #af486a;
+	margin-top: 10px;
+	margin-left: 95px;
+	font-size: 15px;
+}
+.p5 span{
+	color: white;
+}
+.blank{
+    margin-left: 37px;
+    margin-top: 20px;
+}
+.pp{
+   margin-left: 353px;
+    margin-top: -20px;
+    padding: 11px;
+    border-radius: 20px;
+    color: white;
+    background-color: brown;
 }
