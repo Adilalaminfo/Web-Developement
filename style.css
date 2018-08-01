@@ -1,0 +1,19 @@
+body{
+  background-image: url(tb.jpg);
+}
+.ul1{
+	  list-style-type: none;
+	  text-align: center;
+	  border: 2px solid red;
+    padding:10px;
+     background-color: pink;
+}
+.ul1 li img{
+       border: 2px solid blue;
+       border-radius: 50%;
+}
+.ul1 li{
+   margin-left: 20px;
+   display: inline;
+   margin-right: 50px;
+}
